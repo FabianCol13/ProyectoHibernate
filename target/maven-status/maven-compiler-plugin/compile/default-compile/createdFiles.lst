@@ -1,0 +1,16 @@
+com\fabiancol\dao\DomicilioDAO.class
+com\fabiancol\testciclo\Ciclo3_ModificarObjeto.class
+com\fabiancol\dao\GenericoDAO.class
+com\fabiancol\testciclo\Ciclo2_ObtenerObjeto.class
+com\fabiancol\domain\Contacto.class
+com\fabiancol\test\AlumnoDAOTest.class
+com\fabiancol\domain\Asignacion.class
+com\fabiancol\dao\AlumnoDAO.class
+com\fabiancol\dao\CursoDAO.class
+com\fabiancol\dao\AsignacionDAO.class
+com\fabiancol\dao\ContactoDAO.class
+com\fabiancol\domain\Domicilio.class
+com\fabiancol\domain\Alumno.class
+com\fabiancol\testciclo\Ciclo1_CrearObjeto.class
+com\fabiancol\testciclo\Ciclo4_EliminarObjeto.class
+com\fabiancol\domain\Curso.class
